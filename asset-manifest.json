@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-events/static/css/main.bec542fd.css",
+    "main.js": "/react-form-events/static/js/main.9efd652f.js",
+    "index.html": "/react-form-events/index.html",
+    "main.bec542fd.css.map": "/react-form-events/static/css/main.bec542fd.css.map",
+    "main.9efd652f.js.map": "/react-form-events/static/js/main.9efd652f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec542fd.css",
+    "static/js/main.9efd652f.js"
+  ]
+}
