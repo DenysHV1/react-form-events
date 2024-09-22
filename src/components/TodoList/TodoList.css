@@ -1,0 +1,17 @@
+.itemTodo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	background-color: aqua;
+	padding: 5px 20px;
+}
+
+.todoList{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 20px;
+	padding: 0;
+}
